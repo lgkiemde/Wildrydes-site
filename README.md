@@ -7,3 +7,5 @@ $ git push
 
 $ git add index.html 
 $ git commit -m "Wildrydes"
+
+$ git push
